@@ -21,3 +21,7 @@
 ## 05/03/2023
 
 * Ajout d'appréciations.
+
+## 07/03/2023
+
+* Ajout d'appréciations (212 totales)
