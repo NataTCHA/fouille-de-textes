@@ -280,7 +280,7 @@ Un ensemble sérieux Marie. Pour progresser il faut travailler de manière plus 
 
 Un beau trimestre. Vous êtes une élève attentive. Votre travail est soigné et de qualité. Continuez ainsi !
 
-Résultats corrects mais Marie est capable de  beaucoup mieux. Il faut être plus attentive même en travaux pratiques. Je compte sur elle.
+Résultats corrects mais Marie est capable de beaucoup mieux. Il faut être plus attentive même en travaux pratiques. Je compte sur elle.
 
 Assez bon ensemble. Marie doit intensifier le travail personnel pour progresser.
 
@@ -556,7 +556,7 @@ Un bilan hétérogène : un bel investissement dans certaines matières et un re
 
 Pierre n'a pas su focaliser son attention sur les projections orthogonales. Il faut revoir les bases vectorielles pour réussir aux mieux votre formation.
 
-Un bilan bien trop faible en analyse calculatoire. Pierre n'a été que peu présent à mon cours et ose se plaindre auprès de l'administration de ses appréciations. Veuillez à l'avenir vous préparez sur vos bases avant d'entamer une formation en mathématiques supérieures.
+Un bilan bien trop faible en analyse calculatoire. Pierre n'a été que peu présent à mon cours et ose se plaindre auprès de l'administration de ses appréciations. Veuillez à l'avenir vous préparer sur vos bases avant d'entamer une formation en mathématiques supérieures.
 
 Très bonne performance pour Marie. C'est une étudiante très assidue qui mérite de réussir. De très beau progrès sur les espaces vectoriels. Je vous félicite. Bonne continuation à vous !
 
@@ -584,7 +584,7 @@ Résultats un peu justes. Il faut gagner en rigeur en faisant de nombreux exerci
 
 L'ensemble est un peu juste. Pierre doit apprendre plus régulièrement et de manière plus rigoureuse ses leçons.
 
-Début de trimestre difficile et attitude initiale très effacée, les résultats sont maintenant en progrès et les interventions en classe pertinents. C'est très bien. Prenez confiance et continuez à progresser.
+Début de trimestre difficile et attitude initiale très effacée, les résultats sont maintenant en progrès et les interventions en classe pertinentes. C'est très bien. Prenez confiance et continuez à progresser.
 
 Un premier bilan un peu juste mais qui cache des progrès et la capacité à obtenir des résultats satisfaisants. Il faut maintenant gagner en efficacité et en régularité.
 
@@ -859,3 +859,193 @@ Résultats insuffisants. L'attitude est sérieuse mais il faut fournir un travai
 Résultats un peu juste pour une fin de première scientifique. L'attitude de l'élève aura été exemplaire et participative tout au long de l'année.
 
 Satisfaisant : une attitude positive et des progrès !
+
+Très bon ensemble. Poursuivez dans cette voie.
+
+Trop peu de travaux rendus, des évaluations ratées et peu de participation. Je pense que Marie peut faire beaucoup mieux.
+
+Bon trimestre. Travail sérieux.
+
+Bon ensemble. Travail sérieux et motivé.
+
+Un travail sérieux et investi. Un ensemble satisfaisant.
+
+Les résultats sont satisfaisants. Continuez ainsi.
+
+Élève extrêmement sérieuse qui participe activement. Très bons résultats.
+
+Des difficultés en expression. Mais du travail et du sérieux. Soyez bien rigoureuse dans votre travail à la maison et essayez de prendre la parole en classe, cela vous aidera à progresser.
+
+Un très bon travail et une  attitude sérieuse.
+
+Un certain manque de lucidité au DST plombe la moyenne. Il ne faut pas se décourager et continuer à instaurer méthode et régularité.
+
+Un ensemble moyen. Un travail sérieux.
+
+Ensemble trop juste mais le travail reste sérieux.
+
+Excellent trimestre. Élève sérieuse et perfectionniste mais qui peut encore s'investir davantage à l'oral.
+
+L'attitude de Marie est restée sérieuse et positive, ses contributions pertinentes.
+
+Élève sérieuse et investie mais très effacée à l'oral. Trimestre un peu juste.
+
+Un excellent trimestre, un engagement physique à la hauteur des attentes et de très bonnes analyses de l'activité.
+
+Travail très sérieux et participation active. Des résultats très satisfaisants.
+
+Assez bon ensemble. Élève sérieux. Pierre est cependant capable de s'investir davantage à l'écrit.
+
+Une légère baisse ce trimestren les résultats sont encourageants.
+
+Élève agréable mais les leçons ne sont pas toujours sues, c'est dommage. Bonne participations en cours.
+
+Assez bon résultats, u, engagement sérieux et réfléchi.
+
+Bon trimestre. Élève appliqué et à l'écoute des consignes des enseignants.
+
+Pierre se disperse facilement. C'est dommage il pourrait faire mieux.
+
+Beaucoup de difficultés à l'écrit et une capacité de concentration insuffisante.
+
+Trop de bavardages nuisent  vraiment aux résultats. Pierre est largement en dessous de ses capacités.
+
+Des efforts à l'écrit. Pierre est capable d'améliorer ses résultats.
+
+Pierre montre peu d'enthousiasme à aborder la complexité grammaticale de la langue latine...
+
+DOit absolument progresser et participer.
+
+Bon trimestre mais très peu de participation. Il faut s'investir davantage.
+
+Ensemble trop juste, Pierre doit participer davantage en classe pour progresser.
+
+Trimestre un peu juste. Des efforts visibles. Il faut prendre confiance.
+
+Élève non négligeant qui tente de faire ce qu'on lui demande mais qui doit davantage aborder le travail sous forme de plaisir et d'épanouissement.
+
+Pierre acquiert peu à peu et comme il peut les bases du Latin. Pas de facilités mais assez de sérieux.
+
+Assez bien, continuez à vous investir.
+
+Bien.
+
+Très bien.
+
+Bon trimestre. Il faut continuer ainsi.
+
+Un très bon travail à l'écrit mais soyez plus sérieux en cours.
+
+Trop juste, manque de participation active.
+
+Le niveau reste fragile. Pierre doit s'investir davantage et réagir.
+
+Assez bon trimestre? Il faut continuer les efforts entrepris.
+
+Résultats irréguliers ou trop justes. Pierre a du mal.
+
+Travail assez sérieux de la part de Pierre mais pas encore d'aisance dans la matière.
+
+Assez bon trimestre.
+
+Des progrès ce trimestre. Ensemble convenable.
+
+Niveau trop juste, il faudra un soutien à Pierre pour consolider ses modestes acquis.
+
+L'ensemble reste satisfaisant à l'écrit malgré un manque de concentration en classe.
+
+Bon trimestre.
+
+Moyen.
+
+Bon ensemble.
+
+Assez bien, des résultats irréguliers et sérieux tout au long du trimestre.
+
+Nous attendrons mieux au deuxième trimeste.
+
+Des résultats trop justes. Pierre ne travaille pas suffisament. Il faut apprendre ses leçons régulièrement.
+
+Bon trimestre dans l'ensemble.
+
+Ensemble correct. Pierre doit s'investir davantage en classe et être moins dispersé.
+
+Ensemble fort satisfaisant, il est vraiment dommage que vous soyez si discret à l'oral.
+
+De très bonnes choses mais le passage à l'écrit pose encore problème.
+
+Ensemble convenable. Pierre peut néanmoins s'investir davantage dans son travail et en classe.
+
+Ensemble très juste. Attention, le travail n'est pas fait régulièrement, ce qui risque d'être préjudiciable pour la suite.
+
+Un bon ensemble. Pierre fournit un travail sérieux qui doit cependant être approfondi si vous voulez progressez au deuxième trimestre.
+
+Un ensemble correct. Pierre doit apprendre à soigner ses écrits. Le travail d'apprentissage nécessite plus de rigueur.
+
+Un meilleur trimestre. Continuez les efforts et faites bien tout le travail demandé.
+
+Résultats en baisse par manque de travail et d'investissement.
+
+Pierre se maintient à un niveau correct. Il peut sans doute faire mieux.
+
+Trimestre inégal. Un début convenable mais des résultats décevants sur la fin. Il faut se remettre au travail.
+
+Un trimestre décevant avec des résultats irréguliers. Réagissez vite.
+
+Assez bon trimestre. Élève sérieux et attentif. Il faut particper davantage.
+
+Aucun rendu.
+
+Bon trimestre, Pierre peut mieux faire, s'appliquer à l'écrit par exemple.
+
+Ensemble correct, bonne implication dans l'activité.
+
+Des résultats un peu justes. Travaillez davantage.
+
+Attention aux devoirs maison.
+
+Un manque de travail !
+
+Un assez bon ensemble. Pierre est un élève discret mais qui s'investi toujours au maximum de ses capacités.
+
+Trimestre de bon niveau.
+
+Des résultats en légère hausse. Une fin de trimestre encourageante. Il faut poursuivre ainsi.
+
+Un élève timide mais stable et régulier dans son travail. Ensemble satisfaisant.
+
+Des résultats trop justes ce trimestre et un ensemble bien moyen.
+
+Un trimestre correct. Pierre doit s'impliquer davantage et participer plus régulièrement.
+
+Des résultats fragiles. Pierre doit faire des efforts de mémorisation et travailler avec régularité.
+
+Bon ensemble avec une participation active et une attitude positive. Poursuivez vos efforts !
+
+Trop justes ! Soyez plus réguliers.
+
+Des résultats trop justes. Pierre gagnerait à s'investir davantage dans la matière.
+
+Élève sérieux mais reservé, il faut participer davantage en clasee.
+
+Ensemble moyen et irrégulier. Apprenez davantage vos leçons Veuillez à rester concentré.
+
+Un ensempble satisfaisant mais Pierre doit sortir de sa réserve et participer plus activement au cours.
+
+Des résultats irréguliers ce trimestre qui ne reflètent pas les capacités de Pierre. Il doit travailler avec sérieux et régularité.
+
+Des résultats bien justes. Vous n'êtes pas suffisament attentif et ne travaillez pas assez.
+
+Une baisse de résultats ce trimestre. Il faut rester consatnt dans les efforts fournis pour réussir vos projets dans l'avenir.
+
+Résultats insuffisants.
+
+Des résultats trop justes, faute d'une réelle implication dans la matière.
+
+Bon trimestre dans l'ensemble.
+
+Bien.
+
+Continuez ainsi !
+
+Des résultats en chute ce trimestre témoignant d'une baisse de forme. Pierre est cependant un élève réfléchi et interessé qui doit prendre confiance.
