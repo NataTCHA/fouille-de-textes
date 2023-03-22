@@ -32,4 +32,9 @@
 
 ## 17/03/2023
 
-* Ajout d'appréciations (811 totales)
+* Ajout d'appréciations (406 totales)
+
+## 22/03/2023
+
+* Clôture du sondage.
+
