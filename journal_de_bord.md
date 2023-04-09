@@ -40,4 +40,10 @@
 
 ## 22/03/2023
 
-Ajout de plusieurs appréciations ( 1321 totales ) + reflexion sur l'arborescence
+* Ajout de plusieurs appréciations ( 1321 totales ) + reflexion sur l'arborescence
+
+## 09/04/2023
+
+* Finalisation des appréciations
+* Création d'un script python (classifieur_man.py) pour faciliter la classification manuelle
+* Essai d'une classification à tois classes : <b>Positif, Négatif, Mitigé</b>
