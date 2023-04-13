@@ -7,11 +7,6 @@
 #    Created: 2023/03/22 16:21:48 by @juliette
 #                  
 # ****************************************************************************
-
-
-from colorama import init as colorama_init
-from colorama import Fore
-from colorama import Style
 import argparse
 
 # recup fichier à trier
@@ -35,7 +30,7 @@ with open(fichier_traite, 'r') as fichier:
         line = line.strip()
         if line == "":
             continue
-        print(f"\n{bcolors.HEADER}{line}{bcolors.ENDC}")
+        print(f"\n{bcolors.HEADER}{line}")
         reponse = input("Quel sentiment renvoie l'appréciation ? ").strip().upper()
         while reponse not in ["N", "P", "M", "Q"]:
             reponse = input("Vous avez entré une lettre invalide. Veuillez réessayer.").strip().upper()
@@ -64,6 +59,5 @@ def sauvegarder_fichier(nom_fichier, contenu):
     with open(nom_fichier, 'w') as f:
         f.write(contenu)
 
-#fermer fichier
 sauvegarder_fichier(fichier_traite, "\n".join(lignes_restantes))
 
