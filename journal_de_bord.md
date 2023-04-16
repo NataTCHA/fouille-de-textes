@@ -45,9 +45,7 @@
 ## 09/04/2023
 
 * Finalisation des appréciations
-* Création d'un script python (classifieur_man.py) pour faciliter la classification manuelle
+* Création d'un script python (<i>classifieur_man.py</i>) pour faciliter la classification manuelle
 * Essai d'une classification à tois classes : <b>Positif, Négatif, Mitigé</b>
 
-## 13/04/2023
-
-* Début classification des appréciations
+##
