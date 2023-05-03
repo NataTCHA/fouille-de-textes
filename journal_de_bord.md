@@ -34,6 +34,11 @@
 
 * Ajout d'appréciations (406 totales)
 
+## 03/05/2023
+
+* Premier Test avec Weka de trois algo : SVM, Naives, J48
+*  
+
 ## 22/03/2023
 
 * Clôture du sondage.
@@ -48,4 +53,9 @@
 * Création d'un script python (<i>classifieur_man.py</i>) pour faciliter la classification manuelle
 * Essai d'une classification à tois classes : <b>Positif, Négatif, Mitigé</b>
 
-##
+## 03/05/2023
+
+* Créations de scrips python pour construire la liste de mots mides <i>maker_bag_word</i> ainsi qu'un script permettant de creer notre arborescence <i>maker_arborescence</i>.
+* Néttoyage du Corpus avec une regex
+* Premier Test avec Weka de trois algo : SVM, Naives, J48 prermier résultat plut
+* Commencement de la rédaction du rapport
