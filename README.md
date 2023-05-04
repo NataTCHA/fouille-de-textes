@@ -1,40 +1,45 @@
-# Jounal de bord
+# README
 
-## Groupe
+## Groupe :
 
 Natacha M.
 Juliette M.
 
 ## Sujet
 
-Classification automatique d'appréciations scolaires en fonction du sentiment exprimé.
+Classification automatique d'appréciations scolaires en fonction du sentiment dégagé.
 
-## Fonctionnement du Git
-Dans le dossier appreciations nous retrouverons cette architecture :
-* appreciations
+## Contenu du Git :
+
+### Fichiers :
+
+- **README.md** : c'est ça ! Il y a de tout, de l'explication de l'organisation du dossier à tout commentaire que nous avons jugé utile.
+- **journal_de_bord.md** : notre journal de bord (assez synthétique parce que tout s'est globalement bien passé).
+
+### Dossiers :
+
+* <i>**appreciations/**
     * positif.txt
     * mitigé.txt
-    * negatif.txt
+    * negatif.txt</i>
+> Fichiers **.txt** contenant l'ensemble des appréciations du corpus, triées manuellement. C'est grâce à ces fichiers et au script <i>maker_arborescence.py</i> que nous avons pu créer notre arborescence finale.
+___
+* **corpus/**
+    * positif/
+        * positif_[01-66].txt
+    * mitige/
+        * mitige_[01-50].txt
+    * negatif/
+        * negatif_[01-50].txt
+> Corpus de travail pour Weka. Chaque fichier texte fait 10 lignes (10 apréciations). Résulte de l'éxécution du script <i> maker_arborescence.py</i>.
 
-chaque fichier **.txt** contient le contenu totale de sa classe.  Ces trois fichiers textes ont permis de réaliser l'arborescence pour la mise en oeuvre du projet.
-
-Ensuite nous avons le dossier corpus :
-* corpus
-    * positif
-        * positif_[0-99].txt
-    * mitige
-        * mitige_[0-99].txt
-    * negatif
-        * negatif_[0-99].txt
-
-Ce dossier est l'arborescence sur laquelle nous allons appliquer la vectorisation pour ensuite pouvoir travailler sur Weka. Celui ci a été conçu avec le script maker_arborescence.py
-
-* scripts
+___
+* <i><b>scripts/</b>
   * classifieur_man.py
   * maker_arborescence.py
-  * maker_bag_word.py
+  * maker_bag_word.py</i>
 
-Le contenu de ce dossier est très important ! 
-* **classifieur_man.py** nous a permis de constituer le dossier appréciations ou nous avons la totalité de nos appréciations triées en fonction de sa classe.
-* **maker_bag_word.py** nous a permis de construire notre liste de mots vides ( nous avons tout de même dû y appliquer quelques correctifs manuels)
-* **maker_arborescence.py** nous a permis de concevoir l'aborescence en lui donnant en entrée le dossier "appreciations". Il a écrit chaque fichier textuel : les fichiers ont 10 lignes textuelles.
+>Dossier contenant les scripts python utilisés :
+>-  **classifieur_man.py** : script qui prend en entrée le fichier <i>appreciations.txt</i> (fichier qui contenanit à la base l'ENSEMBLE des appréciations non triées) et qui, par un input de l'utilisateur, copie l'appréciation dans le fichier texte associé à sa classe. Les 3 fichiers de sortie sont ceux du dossier <i>appreciations</i>.
+>- **maker_bag_word.py** : script qui mobilise NLTK pour traiter un fichier texte et créer un fichier mot vide associé. Le fichier de sortie est <i>motvide.txt</i>.
+>- **maker_arborescence.py** nous a permis de concevoir l'aborescence du corpus pour Weka. Il se lance en ligne de commande et prend un argument qui correspond à la classe traité (positif, negatif, mitige). À partir du fichier texte contenant toutes les appréciations de la classe (<i>appreciations/</i>), il crée autant de fichier textuel de 10 lignes maximum qu'il peut y avoir.
