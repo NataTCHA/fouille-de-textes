@@ -1,10 +1,10 @@
-Insuffisant. Tu es capable de mieux.
-Certains résultats restent insuffisants. Il faut faire preuve de plus de sérieux.
-Résultats fragiles.
-Résultats trop juste pour le niveau demandé.
-Trimestre décevant pour X qui était si bien parti.
-Résultats modestes.
-A peine suffisant.
-Ensemble très inégal.
-Ensemble/Résultats (très) irrégulier(s).
-Résultats inconstants.
+Insuffisant Tu es capable de mieux
+Certains résultats restent insuffisants Il faut faire preuve de plus de sérieux
+Résultats fragiles
+Résultats trop juste pour le niveau demandé
+Trimestre décevant pour X qui était si bien parti
+Résultats modestes
+A peine suffisant
+Ensemble très inégal
+Ensemble/Résultats  très  irrégulier s 
+Résultats inconstants

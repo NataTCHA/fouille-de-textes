@@ -1,10 +1,10 @@
-X a montré un manque de motivation pour les cours, en ne montrant pas d'intérêt pour les matières enseignées et en ayant des résultats médiocres dans les évaluations.
-X n'a pas montré d'efforts suffisants dans ses travaux, en produisant des résultats en dessous de ses capacités et en ne mettant pas en pratique les commentaires de l'enseignant.
-X a montré des problèmes de comportement en classe, en étant souvent impolie ou agressive envers les autres élèves ou l'enseignant.
-X a des difficultés à s'adapter aux nouvelles situations, ce qui la rend mal à l'aise dans les situations d'apprentissage nouvelles ou complexes.
-X affiche une attitude résignée et un manque de motivation flagrant, ce qui nuit à sa participation active en classe et à sa capacité à saisir les opportunités d'apprentissage.
-X a montré un manque de compréhension dans les matières enseignées, en ayant des difficultés à comprendre les concepts clés et à appliquer les méthodes d'enseignement.
-X démontre une compréhension superficielle des concepts abordés, se traduisant par des réponses insuffisamment développées et des erreurs récurrentes dans ses travaux.
-X a eu des problèmes d'absentéisme, en manquant régulièrement des cours ou en étant souvent en retard.
-X a montré des difficultés à travailler de manière indépendante, en ayant besoin d'une aide supplémentaire pour comprendre les concepts enseignés et pour réaliser ses travaux.
-X a eu des problèmes de discipline, en ne respectant pas les règles de l'école ou les instructions données par l'enseignant.
+X a montré un manque de motivation pour les cours  en ne montrant pas d intérêt pour les matières enseignées et en ayant des résultats médiocres dans les évaluations
+X n a pas montré d efforts suffisants dans ses travaux  en produisant des résultats en dessous de ses capacités et en ne mettant pas en pratique les commentaires de l enseignant
+X a montré des problèmes de comportement en classe  en étant souvent impolie ou agressive envers les autres élèves ou l enseignant
+X a des difficultés à s adapter aux nouvelles situations  ce qui la rend mal à l aise dans les situations d apprentissage nouvelles ou complexes
+X affiche une attitude résignée et un manque de motivation flagrant  ce qui nuit à sa participation active en classe et à sa capacité à saisir les opportunités d apprentissage
+X a montré un manque de compréhension dans les matières enseignées  en ayant des difficultés à comprendre les concepts clés et à appliquer les méthodes d enseignement
+X démontre une compréhension superficielle des concepts abordés  se traduisant par des réponses insuffisamment développées et des erreurs récurrentes dans ses travaux
+X a eu des problèmes d absentéisme  en manquant régulièrement des cours ou en étant souvent en retard
+X a montré des difficultés à travailler de manière indépendante  en ayant besoin d une aide supplémentaire pour comprendre les concepts enseignés et pour réaliser ses travaux
+X a eu des problèmes de discipline  en ne respectant pas les règles de l école ou les instructions données par l enseignant

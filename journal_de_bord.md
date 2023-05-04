@@ -55,7 +55,7 @@
 
 ## 03/05/2023
 
-* Créations de scrips python pour construire la liste de mots mides <i>maker_bag_word</i> ainsi qu'un script permettant de creer notre arborescence <i>maker_arborescence</i>.
+* Créations de scrips python pour construire la liste de mots vides <i>maker_bag_word</i> ainsi qu'un script permettant de creer notre arborescence <i>maker_arborescence</i>.
 * Nettoyage du Corpus avec une regex
 * Premier Test avec Weka de trois algo : SVM, Naives, J48 prermier résultat plut
 * Commencement de la rédaction du rapport
