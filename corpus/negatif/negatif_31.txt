@@ -1,10 +1,10 @@
-X a montré des difficultés en mathématiques  avec des résultats en dessous de la moyenne dans les tests et les examens
-X a eu des comportements perturbateurs en classe  qui ont affecté la concentration des autres élèves et ont entravé le déroulement du cours
-X a été absente à plusieurs reprises sans raison valable  ce qui a perturbé sa participation en classe et son apprentissage
-X présente des difficultés notables dans sa maîtrise des compétences de base en mathématiques  ce qui se traduit par des résultats insatisfaisants dans les évaluations
-X n a pas respecté les règles de l école  en ayant des comportements irrespectueux envers les enseignants et en ne suivant pas les consignes données
-X a tendance à perturber fréquemment le déroulement des cours par des comportements irrespectueux envers l enseignant et ses camarades de classe  créant ainsi un environnement d apprentissage peu propice
-X a eu des difficultés à s organiser et à gérer son temps efficacement  ce qui a affecté la qualité de son travail et sa capacité à terminer les tâches à temps
-X fait preuve d une assiduité insuffisante en étant absente de manière régulière  compromettant ainsi sa présence en classe et son acquisition des connaissances
-X a montré des signes de découragement et de manque de motivation  en ne montrant pas d intérêt pour les matières enseignées et en ayant des résultats médiocres dans les tests et les examens
-X a eu des difficultés à comprendre les instructions données  en ayant besoin d une aide supplémentaire pour comprendre les concepts clés enseignés
+X a montré des difficultés en mathématiques avec des résultats en dessous de la moyenne dans les tests et les examens
+X a eu des comportements perturbateurs en classe qui ont affecté la concentration des autres élèves et ont entravé le déroulement du cours
+X a été absente à plusieurs reprises sans raison valable ce qui a perturbé sa participation en classe et son apprentissage
+X présente des difficultés notables dans sa maîtrise des compétences de base en mathématiques ce qui se traduit par des résultats insatisfaisants dans les évaluations
+X n a pas respecté les règles de l école en ayant des comportements irrespectueux envers les enseignants et en ne suivant pas les consignes données
+X a tendance à perturber fréquemment le déroulement des cours par des comportements irrespectueux envers l enseignant et ses camarades de classe créant ainsi un environnement d apprentissage peu propice
+X a eu des difficultés à s organiser et à gérer son temps efficacement ce qui a affecté la qualité de son travail et sa capacité à terminer les tâches à temps
+X fait preuve d une assiduité insuffisante en étant absente de manière régulière compromettant ainsi sa présence en classe et son acquisition des connaissances
+X a montré des signes de découragement et de manque de motivation en ne montrant pas d intérêt pour les matières enseignées et en ayant des résultats médiocres dans les tests et les examens
+X a eu des difficultés à comprendre les instructions données en ayant besoin d une aide supplémentaire pour comprendre les concepts clés enseignés
